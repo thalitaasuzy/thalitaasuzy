@@ -1,20 +1,26 @@
 ### Oie!! Eu sou a Thalita Suzy 🪷
  
 - Atualmente estudo JavaScript e POO-Java. 
-- Email: thalitasuzyr@gmail.com
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalitaasuzy&repo=github-readme-stats&theme=tokyonight)]
+
+
 
 
 <!--
 **thalitaasuzy/thalitaasuzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Atualmente estou estudando as linguagens JavaScript e Java orientado a objetos.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
