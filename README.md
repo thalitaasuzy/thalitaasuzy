@@ -15,8 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalitaasuzy&repo=github-readme-stats&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight)]
+
 
 
 
