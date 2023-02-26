@@ -1,6 +1,6 @@
 ### Oie!! Eu sou a Thalita Suzy 🪷
  
-- Estudando Python, JavaScript e POO-Java. 
+- Estudando Python, JavaScript e Java. 
 
 
 
