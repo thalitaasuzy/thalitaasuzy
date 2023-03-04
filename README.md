@@ -22,7 +22,8 @@
  ##
 <!-- Trophy Code -->
 <div> 
- <img height="90cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Commits&theme=tokyonight />
+ <img align="center" height="90cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Commits&theme=tokyonight />
+ <img align="center" height="90cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Repo&theme=tokyonight />
 </div>
  
 
