@@ -5,7 +5,7 @@
 
 
 <!-- GitHub Card -->
-<img align="right" height="600m" src="https://raw.githubusercontent.com/gist/thalitaasuzy/ec39a8165e2faf5c78ee738727a37326/raw/9e04fe6b5f39f425fa60a6aae055a02ec7adea3f/githubcard.svg"/>
+<img align="right" height="620m" src="https://raw.githubusercontent.com/gist/thalitaasuzy/ec39a8165e2faf5c78ee738727a37326/raw/9e04fe6b5f39f425fa60a6aae055a02ec7adea3f/githubcard.svg"/>
 
 
 
