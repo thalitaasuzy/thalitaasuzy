@@ -30,6 +30,9 @@
  <img align="left" height="75cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Commits&theme=tokyonight />
  <img align="left" height="75cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Repo&theme=tokyonight />
 </div>
+
+![Snake animation](https://github.com/thalitaasuzy/thalitaasuzy/blob/output/github-contribution-grid-snake.svg)
+ 
  
 
 
