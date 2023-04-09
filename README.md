@@ -11,8 +11,8 @@
 
 <!-- ReadMe Stats -->
 <div>
- <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true&theme=tokyonight" />
- <img height="105cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight" />
+ <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=thalitaasuzy&show_icons=true&theme=tokyonight" />
+ <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight" />
  <!-- <img height="143.5cm" src="https://github-readme-stats.vercel.app/api/pin/?username=thalitaasuzy&repo=github-readme-stats&theme=tokyonight" /> -->
 </div>
  
