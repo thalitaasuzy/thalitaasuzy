@@ -1,7 +1,7 @@
 <!-- Presentation-->
 <h3 align="left">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thalita Suzy🪷</h3>
 
-- Estudando Python, JavaScript e Java. 
+- Learning Python, JavaScript and Java. 
 
 
 <!-- GitHub Card -->
