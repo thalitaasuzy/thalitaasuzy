@@ -25,7 +25,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FGithub+Stuffs)](https://git.io/typing-svg)
 
 <!-- GitHub Card -->
-<img align="right" height="620m" left="200" src="https://raw.githubusercontent.com/gist/thalitaasuzy/ec39a8165e2faf5c78ee738727a37326/raw/9e04fe6b5f39f425fa60a6aae055a02ec7adea3f/githubcard.svg"/>
+<img align="right" height="820m" left="25" src="https://raw.githubusercontent.com/gist/thalitaasuzy/ec39a8165e2faf5c78ee738727a37326/raw/9e04fe6b5f39f425fa60a6aae055a02ec7adea3f/githubcard.svg"/>
 
 <!-- ReadMe Stats -->
 <div>
