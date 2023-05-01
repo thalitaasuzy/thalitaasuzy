@@ -16,6 +16,12 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y27vapuxn7w7ooebmxwl3lglv4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9034b2&bar_color_cover=true)](https://open.spotify.com/playlist/0jW4Xjlot65Z2v0QA0Z5sK)
 
 
+
+##
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FGithub+Stats)](https://git.io/typing-svg)
 
 <!-- GitHub Card -->
@@ -28,20 +34,41 @@
  <!-- <img height="143.5cm" src="https://github-readme-stats.vercel.app/api/pin/?username=thalitaasuzy&repo=github-readme-stats&theme=tokyonight" /> -->
 </div>
 
+<!-- Trophy Code -->
+
+ <div> 
+ <img height="95cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Commits&theme=tokyonight&row=1&column=1 />
+ <img height="95cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Repo&theme=tokyonight&row=1&column=2 />
+</div> 
+
+
+## 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FProgramming+Tools)](https://git.io/typing-svg)
+ 
  <!-- Languages Images -->
  <div style="display: inline_block"><br>
-  <img align="center" alt="Suzy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Suzy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Suzy-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
+  <img align="center" alt="Suzy-Js" height="=40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Suzy-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Suzy-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
+  <img align="center" alt="Suzy-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Suzy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+ ##
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8F+Used+Stuffs+)](https://git.io/typing-svg)
+ 
+  <img align="center" alt="Suzy-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Suzy-Linux" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Suzy-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Suzy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="suzy-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/112733274/235544515-31b4bb3d-1031-4b35-a35e-ad60cc4d46f9.png" alt="suzy-eclipse"/>
+
+          
+            
  <!-- <img align="right" alt="Suzy-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/4c/34/a5/4c34a5e3ea14422f31255e1e61d172c1.jpg"> -->
 </div>
  
- ##
-<!-- Trophy Code -->
-<div> 
- <img align="left" height="75cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Commits&theme=tokyonight />
- <img align="left" height="75cm" src=https://github-profile-trophy.vercel.app/?username=thalitaasuzy&title=Repo&theme=tokyonight />
-</div>
 
 
  
