@@ -4,7 +4,10 @@
 
 - Learning Python, JavaScript and Java. 🔍
 - I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
-- I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. ✈️
+- I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. ✈
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y27vapuxn7w7ooebmxwl3lglv4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9034b2&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ##
 
@@ -17,7 +20,7 @@
  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasuzy&layout=compact&theme=tokyonight" />
  <!-- <img height="143.5cm" src="https://github-readme-stats.vercel.app/api/pin/?username=thalitaasuzy&repo=github-readme-stats&theme=tokyonight" /> -->
 </div>
- 
+
  <!-- Languages Images -->
  <div style="display: inline_block"><br>
   <img align="center" alt="Suzy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
