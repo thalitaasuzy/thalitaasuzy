@@ -1,6 +1,6 @@
 <!-- Presentation-->
-<h3 align="left">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thalita Suzy🪷</h3> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&width=435&lines=Hi!!+I'm+Thalita+Suzy+%F0%9F%AA%B7)](https://git.io/typing-svg)
 
 - Learning Python, JavaScript and Java. 🔍
 - I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
