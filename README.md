@@ -1,6 +1,7 @@
 <!-- Presentation-->
 <h3 align="left">Hi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thalita Suzy🪷</h3> 
 
+
 - Learning Python, JavaScript and Java. 🔍
 - I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
 - I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. ✈️
@@ -9,8 +10,6 @@
 
 <!-- GitHub Card -->
 <img align="right" height="620m" left="200" src="https://raw.githubusercontent.com/gist/thalitaasuzy/ec39a8165e2faf5c78ee738727a37326/raw/9e04fe6b5f39f425fa60a6aae055a02ec7adea3f/githubcard.svg"/>
-
-
 
 <!-- ReadMe Stats -->
 <div>
