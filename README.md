@@ -5,6 +5,8 @@
 - Learning Python, JavaScript and Java. 🔍
 - I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
 - I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. ✈
+
+<!-- Spotify Playlist (https://github.com/kittinan/spotify-github-profile) -->
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y27vapuxn7w7ooebmxwl3lglv4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9034b2&bar_color_cover=true)](https://open.spotify.com/playlist/0jW4Xjlot65Z2v0QA0Z5sK)
 
