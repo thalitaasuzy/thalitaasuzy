@@ -64,18 +64,17 @@
   <img align="center" alt="Suzy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="suzy-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/112733274/235544515-31b4bb3d-1031-4b35-a35e-ad60cc4d46f9.png" alt="suzy-eclipse"/>
 
-          
+
+
+<!-- Snake Game-->
+<img src="https://raw.githubusercontent.com/thalitaasuzy/thalitaasuzy/output/snake.svg" alt="Snake animation" />
+
+###
+
             
  <!-- <img align="right" alt="Suzy-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/4c/34/a5/4c34a5e3ea14422f31255e1e61d172c1.jpg"> -->
 </div>
  
-
-
- 
-
-
-
-
 
 <!--
 **thalitaasuzy/thalitaasuzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
