@@ -64,11 +64,11 @@
   <img align="center" alt="Suzy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="suzy-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/112733274/235544515-31b4bb3d-1031-4b35-a35e-ad60cc4d46f9.png" alt="suzy-eclipse"/>
 
+<br>
 
-
-<!-- Snake Game-->
+<!-- Snake Game
 <img src="https://raw.githubusercontent.com/thalitaasuzy/thalitaasuzy/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
             
