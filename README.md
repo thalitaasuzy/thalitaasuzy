@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FAbout+me)](https://git.io/typing-svg)
 
-- Learning Python, JavaScript and Java. 💻
+- Learning Swift. 🖋️
+- Python, JavaScript and Java. 💻
 - I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
 - I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. Because of that I try to learn some languages, like English and Spanish ✈
 - One of my favorite pastimes to give my mind a rest is books. I also write texts, practice some sports and try to occupy myself with things related to art, without too many labels (from singing to painting beach rocks). 🦋
