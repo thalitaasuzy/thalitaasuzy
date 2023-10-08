@@ -6,11 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FAbout+me)](https://git.io/typing-svg)
 
-- Learning Swift. 🖋️
+- Improving my skills in Swift and UX Design. 🖋️
 - Python, JavaScript and Java. 💻
-- I'm 16 years old | Sweet Sixteen, March 7th. 🎂 
+- Student at the Federal Institute of Education, Science and Technology of Ceará. 🎒
+- I'm 16 years old | "Sweet Sixteen". 🎂 
 - I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. Because of that I try to learn some languages, like English and Spanish ✈
-- One of my favorite pastimes to give my mind a rest is books. I also write texts, practice some sports and try to occupy myself with things related to art, without too many labels (from singing to painting beach rocks). 🦋
+- One of my favorite pastimes to give my mind a rest is books. I also write texts, practice sports and try to occupy myself with things related to art, without too many labels (from singing to painting beach rocks). 🦋
 
 </br>
 
@@ -21,9 +22,6 @@
 
 
 ##
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FGithub+Stuffs)](https://git.io/typing-svg)
 
@@ -56,6 +54,8 @@
   <img align="center" alt="Suzy-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
   <img align="center" alt="Suzy-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Suzy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Suzy-Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+          
   
  ##
  
@@ -66,8 +66,19 @@
   <img align="center" alt="Suzy-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Suzy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="suzy-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/112733274/235544515-31b4bb3d-1031-4b35-a35e-ad60cc4d46f9.png" alt="suzy-eclipse"/>
+  <img align="center" alt="suzy-XCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+          
 
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&repeat=false&width=435&lines=%E2%97%BDContact+Me)](https://git.io/typing-svg)
+ 
+<img align="center" alt="Suzy-Linkedin" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  <br>
+ 
+<img align="center" alt="Suzy-Gmail" height="25" width="25" src= "https://github.com/thalitaasuzy/thalitaasuzy/assets/112733274/ae7b1a6d-c452-40ab-b7ac-6404f95d071c" />
+thalitasuzyr@gmail.com
+
+
 
 <!-- Snake Game
 <img src="https://raw.githubusercontent.com/thalitaasuzy/thalitaasuzy/output/snake.svg" alt="Snake animation" />
