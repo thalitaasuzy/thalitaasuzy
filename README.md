@@ -1,6 +1,6 @@
 <!-- Presentation-->
 
-![Untitled design (2)](https://github.com/thalitaasuzy/thalitaasuzy/assets/112733274/c7f6f280-e679-40d5-ae94-24541708122a)
+<img src="https://github.com/thalitaasuzy/thalitaasuzy/assets/112733274/c7f6f280-e679-40d5-ae94-24541708122a">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&width=435&lines=Hi!!+I'm+Thalita+Suzy+%F0%9F%AA%B7)](https://git.io/typing-svg)
 
