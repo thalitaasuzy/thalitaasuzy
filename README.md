@@ -1,5 +1,8 @@
 <!-- Presentation-->
 
+<img height="=1940" width="924" src="blob:chrome-untrusted://media-app/a5c91112-c188-4145-9e99-15069a3e4419" />![image](https://github.com/thalitaasuzy/thalitaasuzy/assets/112733274/782c78ba-5042-471d-ab4b-5157839fb835)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&width=435&lines=Hi!!+I'm+Thalita+Suzy+%F0%9F%AA%B7)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FAbout+me)](https://git.io/typing-svg)
