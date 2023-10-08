@@ -58,7 +58,8 @@
           
   
  ##
- 
+
+  <!-- Tools Images -->
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8F+Used+Things+)](https://git.io/typing-svg)
  
   <img align="center" alt="Suzy-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -70,6 +71,10 @@
           
 
 <br>
+
+##
+
+ <!-- Contact Me -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&repeat=false&width=435&lines=%E2%97%BDContact+Me)](https://git.io/typing-svg)
  
