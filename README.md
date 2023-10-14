@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8FAbout+me)](https://git.io/typing-svg)
 
-- Improving my skills in Swift and UX Design. 🖋️
+- Improving my skills in Swift and UX/UI Design. 🖋️
 - Python, JavaScript and Java. 💻
 - Student at the Federal Institute of Education, Science and Technology of Ceará. 🎒
 - I'm 16 years old | "Sweet Sixteen". 🎂 
