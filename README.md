@@ -78,7 +78,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&repeat=false&width=435&lines=%E2%97%BDContact+Me)](https://git.io/typing-svg)
  
-<img align="center" alt="Suzy-Linkedin" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  <br>
+<!-- <img align="center" alt="Suzy-Linkedin" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  <br> -->
  
 <img align="center" alt="Suzy-Gmail" height="25" width="25" src= "https://github.com/thalitaasuzy/thalitaasuzy/assets/112733274/ae7b1a6d-c452-40ab-b7ac-6404f95d071c" />
 thalitasuzyr@gmail.com
