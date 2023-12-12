@@ -52,23 +52,32 @@
   <img align="center" alt="Suzy-Js" height="=40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Suzy-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Suzy-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
-  <img align="center" alt="Suzy-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Suzy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <!-- <img align="center" alt="Suzy-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Suzy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -->
   <img align="center" alt="Suzy-Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="center" alt="Suzy-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+          
           
   
  ##
 
-  <!-- Tools Images -->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8F+Used+Things+)](https://git.io/typing-svg)
+  <!-- IDEs Images -->
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8F+IDEs+)](https://git.io/typing-svg)
  
-  <img align="center" alt="Suzy-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Suzy-Linux" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Suzy-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Suzy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="suzy-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/112733274/235544515-31b4bb3d-1031-4b35-a35e-ad60cc4d46f9.png" alt="suzy-eclipse"/>
   <img align="center" alt="suzy-XCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-          
+  <img align="center" alt="suzy-IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+
+##
+
+ <!-- Tools Images -->          
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=15&pause=1000&color=AD7BFF&background=7C0DA900&vCenter=true&repeat=false&width=435&lines=%E2%97%BD%EF%B8%8F+Used+Things+)](https://git.io/typing-svg)
+  
+ <img align="center" alt="Suzy-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="center" alt="Suzy-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+           
 
 <br>
 
