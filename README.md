@@ -9,8 +9,8 @@
 - Improving my skills in Swift, Kotlin and UX/UI Design. 🖋️
 - Mobile Developer 📱
 - Student at the Federal Institute of Education, Science and Technology of Ceará. 🎒
-- I'm 16 years old | "Sweet Sixteen". 🎂 
-- I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. Because of that I try to learn some languages, like English and Spanish ✈
+- I'm 17 years old | "Dancing Queen - ABBA". 🎂 
+- I've lived in Ceara since I was born, but I'm passionate about travel - I've done it a few times, - and I really wanna get to know other places and have new experiences. Because of that I learn some languages, like English and Spanish ✈
 - One of my favorite pastimes to give my mind a rest is books. I also write texts, practice sports and try to occupy myself with things related to art, without too many labels (from singing to painting beach rocks). 🦋
 
 </br>
